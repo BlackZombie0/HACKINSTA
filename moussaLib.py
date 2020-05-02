@@ -1,7 +1,7 @@
 # coding=utf-8
 ###############################################################################
 # Instagram : zodiac2372
-# Developed By Mr.PHOENIX
+# Developed By Mr.FSOCIETY
 # Khode_Kia[at]Yahoo[dot]Com
 # !/usr/bin/python
 ###############################################################################
